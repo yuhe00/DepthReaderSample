@@ -1,0 +1,10 @@
+/Build
+/Binaries
+/Saved
+/Packaged
+/Intermediate
+/DerivedDataCache
+*.sln
+*.sln.DotSettings.user
+.idea/
+.vs/
